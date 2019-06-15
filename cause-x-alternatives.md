@@ -80,6 +80,8 @@ To possibly brainstorm some other things to think about, consider,
 - "AI Alignment Techniques A-Ω*" (Just a whole lot of approaches)   
 - "Global AGI Treaty Variants A-Ω"   
 
+To be clear, I do think that work on both exploring possible candidates for Cause X is likely useful, just not significantly more useful than many other things people could be researching.
+
 ## Take Aways
 
 So, in summary, I would suggest these three updates to those interested in "Cause X."
