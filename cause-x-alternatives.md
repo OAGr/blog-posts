@@ -1,4 +1,4 @@
-# Consider Searching for Innovations A-Ω, not Cause X.
+# Consider Searching for Innovations A-Ω, not Just Cause X.
 
 Many of my conversations around Cause X have made me uncomfortable. I'm sure this wasn't the original intention, but I think the frame of Cause X has led to some incorrect assumptions.
 
