@@ -14,7 +14,7 @@ Some statements I disagree or are very unsure about:
 
   
 
-## Independent vs. Causal Models of Innovation
+## Independent vs. Subset Models of Innovation
 
 First, let's consider two simple models of intellectual progress. 
 
